@@ -91,6 +91,7 @@ python action.py 手机号 32位MD5密码加密值 -l 5173689994 4901511925
 
 ### 2. 创建 Secrets
 
+
 - 创建 PHONE，填入手机号（必填）
 
 - 创建 PASSWORD，填入 32 位 MD5 密码加密值，填写此项可不填 NOMD5_PASSWORD 项（与 NOMD5_PASSWORD 二选其一）
@@ -101,7 +102,6 @@ python action.py 手机号 32位MD5密码加密值 -l 5173689994 4901511925
 
 - 创建 SCKEY（Server 酱 SendKey，可选）
 
-![](README/image-20201110002853759.png)
 
 ### 3. 启用 Action
 
